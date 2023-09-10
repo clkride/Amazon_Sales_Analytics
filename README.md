@@ -1,2 +1,4 @@
 # Amazon_Sales_Analytics
-"Explore actionable insights into Amazon sales and Prime Video performance with this Power BI dashboard. Visualize data trends, analyze key metrics, and make data-driven decisions to optimize your business strategies on these platforms."
+Explore actionable insights into Amazon sales and Prime Video performance with these Power BI dashboards. 
+
+In this project, I have visualized data trends and analyzed key metrics to optimize business strategies for Amazon.
