@@ -2,11 +2,13 @@
 Explore actionable insights into Amazon sales and Prime Video performance with these Power BI dashboards. 
 
 ## Table of Contents
-- [About Census Data Set](#about-census-data-set)
+- [About Data Set](#about-data-set)
 - [Project Description](#project-description)
 - [Author](#author)
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
+
+## About Data Set
 
 ## Project Description
 In this project, I have visualized data trends and analyzed key metrics to optimize business strategies for Amazon.
