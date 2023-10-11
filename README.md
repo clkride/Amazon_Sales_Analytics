@@ -1,3 +1,5 @@
+<a name="readme-top"></a>
+
 # Amazon_Sales_Analytics
 Explore actionable insights into Amazon sales and Prime Video performance with these Power BI dashboards. 
 
@@ -10,8 +12,12 @@ Explore actionable insights into Amazon sales and Prime Video performance with t
 
 ## About Data Set
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## Project Description
 In this project, I have visualized data trends and analyzed key metrics to optimize business strategies for Amazon.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Author
  @[Abbas S.](https://github.com/clkride)
@@ -35,6 +41,13 @@ included in all copies or substantial portions of the Software.
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
 EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
 MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Acknowledgments
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
 LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
 OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
