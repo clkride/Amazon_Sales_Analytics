@@ -11,9 +11,6 @@ Explore actionable insights into Amazon sales and Prime Video performance with t
 - [Acknowledgments](#acknowledgments)
 
 ## About Data Set
-# Dataset Description
-
-## Overview
 This dataset contains information about various orders made on Amazon.in during April 30, 2022. The dataset includes details such as Order ID, Date, Status, Fulfilment method, Sales Channel, Ship Service Level, Style, Category, Courier Status, Quantity, Currency, Amount, Ship City, Promotion IDs, B2B (Business-to-Business), and whether the order was fulfilled by a third-party.
 
 ## Dataset Columns
