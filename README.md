@@ -37,6 +37,24 @@ This dataset contains information about various orders made on Amazon.in during 
 
 ## Sample Rows
 Here are a few sample rows from the dataset:
+| ID | Date | Status | Fulfilment | Sales Channel | Ship Service Level | Style | Category | Courier Status | Quantity | Currency | Amount | Ship City | Promotion IDs | B2B | Fulfilled by |
+|----|------|--------|------------|---------------|---------------------|-------|----------|----------------|----------|----------|--------|-----------|---------------|-----|--------------|
+| 405-8078784-5731545 | 04-30-22 | Cancelled | Merchant | Amazon.in | Standard | SET389 | Set | | 0 | INR | 647.62 | MUMBAI | | FALSE | Easy Ship |
+| 171-9198151-1101146 | 04-30-22 | Shipped - Delivered to Buyer | Merchant | Amazon.in | Standard | JNE3781 | kurta | Shipped | 1 | INR | 406 | BENGALURU | Multiple promotion IDs | FALSE | Easy Ship |
+| 404-0687676-7273146 | 04-30-22 | Shipped | Amazon | Amazon.in | Expedited | JNE3371 | kurta | Shipped | 1 | INR | 329 | NAVI MUMBAI | IN Core Free Shipping 2015/04/08 23-48-5-108 | TRUE | |
+| 403-9615377-8133951 | 04-30-22 | Cancelled | Merchant | Amazon.in | Standard | J0341 | Western Dress | | 0 | INR | 753.33 | PUDUCHERRY | | FALSE | Easy Ship |
+| 407-1069790-7240320 | 04-30-22 | Shipped | Amazon | Amazon.in | Expedited | JNE3671 | Top | Shipped | 1 | INR | 574 | CHENNAI | | FALSE | |
+| 404-1490984-4578765 | 04-30-22 | Shipped | Amazon | Amazon.in | Expedited | SET264 | Set | Shipped | 1 | INR | 824 | GHAZIABAD | IN Core Free Shipping 2015/04/08 23-48-5-108 | FALSE | |
+| 408-5748499-6859555 | 04-30-22 | Shipped | Amazon | Amazon.in | Expedited | J0095 | Set | Shipped | 1 | INR | 653 | CHANDIGARH | IN Core Free Shipping 2015/04/08 23-48-5-108 | FALSE | |
+| 406-7807733-3785945 | 04-30-22 | Shipped - Delivered to Buyer | Merchant | Amazon.in | Standard | JNE3405 | kurta | Shipped | 1 | INR | 399 | HYDERABAD | Multiple promotion IDs | FALSE | Easy Ship |
+| 407-5443024-5233168 | 04-30-22 | Cancelled | Amazon | Amazon.in | Expedited | SET200 | Set | Cancelled | 0 | | | HYDERABAD | IN Core Free Shipping 2015/04/08 23-48-5-108 | FALSE | |
+| 402-4393761-0311520 | 04-30-22 | Shipped | Amazon | Amazon.in | Expedited | JNE3461 | kurta | Shipped | 1 | INR | 363 | Chennai | | FALSE | |
+| 407-5633625-6970741 | 04-30-22 | Shipped | Amazon | Amazon.in | Expedited | JNE3160 | kurta | Shipped | 1 | INR | 685 | CHENNAI | | FALSE | |
+| 171-4638481-6326716 | 04-30-22 | Shipped | Amazon | Amazon.in | Expedited | JNE3500 | kurta | Shipped | 1 | INR | 364 | NOIDA | | FALSE | |
+| 405-5513694-8146768 | 04-30-22 | Shipped - Delivered to Buyer | Merchant | Amazon.in | Standard | JNE3405 | kurta | Shipped | 1 | INR | 399 | Amravati | Multiple promotion IDs | FALSE | Easy Ship |
+| 408-7955685-3083534 | 04-30-22 | Shipped | Amazon | Amazon.in | Expedited | SET182 | Set | Shipped | 1 | INR | 657 | MUMBAI | | FALSE | |
+| 408-1298370-1920302 | 04-30-22 | Shipped - Delivered to Buyer | Merchant | Amazon.in | Standard | J0351 | Set | Shipped | 1 | INR | 771 | MUMBAI | Multiple promotion IDs | FALSE | |
+| 403-4965581-9520319 | 04-30-22 | Shipped - Delivered to Buyer | Merchant | Amazon.in | Standard | PJNE3368 | kurta | Shipped | 1 | INR | 544 | GUNTAKAL | Multiple promotion IDs | FALSE | Easy Ship |
 
 
 
